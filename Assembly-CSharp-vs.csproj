@@ -46,16 +46,35 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Sample Assets\Effects\Particle Systems\scripts\FireLight.cs" />
+     <Compile Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Sample Assets\Effects\Particle Systems\scripts\ParticleSystemMultiplier.cs" />
+     <Compile Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Sample Assets\Utility\ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Water (Pro Only)\Sources\Scripts\Water.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerMovementSync.cs" />
      <Compile Include="Assets\Scripts\Player_NetworkSetup.cs" />
      <Compile Include="Assets\Scripts\Player_SyncPosition.cs" />
      <Compile Include="Assets\Scripts\Player_SyncRotation.cs" />
      <Compile Include="Assets\Scripts\_PlayerSetup.cs" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\SSAA.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset3.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\readme.txt" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+     <None Include="Assets\DaQ-GAMES\Low Poly Cartoon Forest Pack\Demo\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
